@@ -3,7 +3,7 @@ public class Team05 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("201424574 박문수 010-9451-1541");
+		System.out.println("201424537 정호용 010-2752-0488");
 	}
 
 }
