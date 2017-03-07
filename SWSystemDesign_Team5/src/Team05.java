@@ -6,6 +6,7 @@ public class Team05 {
 		System.out.println("201424537 �ȣ�� 010-2752-0488");
 		System.out.println("201424571 ±è½ÂÁÖ");
 		System.out.println("201424574 ¹Ú¹®¼ö 010-9451-1541");
+		System.out.println("201224561 김석원 010-9430-4530");
 	}
 
 }
